@@ -1,20 +1,16 @@
 {
-  "name": "static",
+  "name": "geo-ar-test2",
   "version": "1.0.0",
-  "description": "This is a static template with no bundling",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/songhyonkim/geo-ar-test1.git"
   },
-  "keywords": [
-    "static",
-    "template",
-    "codesandbox"
-  ],
+  "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
